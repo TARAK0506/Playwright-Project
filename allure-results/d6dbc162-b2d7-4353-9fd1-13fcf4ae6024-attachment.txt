@@ -1,0 +1,28 @@
+Current page URL: https://www.ebay.com/sch/i.html?_nkw=Outdoor+Toys&_in_kw=2&_sacat=220&LH_TitleDesc=1&LH_ItemCondition=1000&LH_FR=1&LH_RPA=1&LH_PrefLoc=2
+
+Scraping Page 1...
+Found 0 items on page 1
+Data saved to C:\Users\tarak\Downloads\Playwright\data\results.json
+
+Scraping Page 2...
+Found 0 items on page 2
+Data saved to C:\Users\tarak\Downloads\Playwright\data\results.json
+
+Scraping Page 3...
+Found 0 items on page 3
+Data saved to C:\Users\tarak\Downloads\Playwright\data\results.json
+
+Scraping Page 4...
+Found 0 items on page 4
+Data saved to C:\Users\tarak\Downloads\Playwright\data\results.json
+
+Scraping Page 5...
+Found 0 items on page 5
+Data saved to C:\Users\tarak\Downloads\Playwright\data\results.json
+
+Scraping Page 6...
+Found 0 items on page 6
+Data saved to C:\Users\tarak\Downloads\Playwright\data\results.json
+
+Scraping Page 7...
+Scraping complete. Total items scraped: 0

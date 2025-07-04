@@ -1,0 +1,7 @@
+Error during navigation to next page:  page.waitForNavigation: Test ended.
+=========================== logs ===========================
+waiting for navigation until "load"
+  navigated to "https://www.ebay.com/sch/i.html?_nkw=Outdoor+Toys&_in_kw=2&_sacat=220&LH_TitleDesc=1&LH_ItemCondition=1000&LH_FR=1&LH_RPA=1&LH_PrefLoc=2&_pgn=6"
+  "networkidle" event fired
+  "domcontentloaded" event fired
+============================================================

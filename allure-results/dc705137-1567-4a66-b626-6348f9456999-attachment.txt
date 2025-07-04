@@ -1,0 +1,5 @@
+Search results not found:  locator.waitFor: Test ended.
+Call log:
+  - waiting for locator('//li[@class=\'s-item s-item__pl-on-bottom\']').first() to be visible
+
+No results found on page 7

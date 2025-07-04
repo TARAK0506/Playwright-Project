@@ -1,0 +1,4 @@
+Error during navigation to next page:  page.waitForNavigation: Test ended.
+=========================== logs ===========================
+waiting for navigation until "load"
+============================================================
